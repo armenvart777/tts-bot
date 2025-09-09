@@ -43,3 +43,7 @@ VOICE_ID=onwK4e9ZLuTAKqWW03F9
 ```
 
 Список голосов и их ID можно найти на [elevenlabs.io](https://elevenlabs.io).
+
+## Лицензия
+
+MIT
