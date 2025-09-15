@@ -42,7 +42,7 @@ ELEVENLABS_API_KEY=ключ_elevenlabs
 VOICE_ID=onwK4e9ZLuTAKqWW03F9
 ```
 
-Список голосов и их ID можно найти на [elevenlabs.io](https://elevenlabs.io).
+Полный список голосов и их ID - на [elevenlabs.io](https://elevenlabs.io).
 
 ## Лицензия
 
